@@ -14,3 +14,4 @@ def w_num(n):
     ans = theta-y
     ans = np.abs(ans)<0.0001
     return ans
+
